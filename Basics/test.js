@@ -1,0 +1,1 @@
+console.log("Assembly sikha he to javascript bhi seekh lenge ")
